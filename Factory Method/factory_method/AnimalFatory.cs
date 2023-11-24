@@ -15,6 +15,8 @@ namespace factory_method
                     return new Cat();
                 case "Chicken":
                     return new Chicken();
+                case "dog":
+                     return new Dog();
                 default:
                     throw new ArgumentException("Invalid animal type.");
             }
