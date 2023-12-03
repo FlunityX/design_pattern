@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\singleton.bài tập 1\bin\Debug\net7.0\singleton.bài tập 1.exe
+C:\Users\Administrator\source\repos\singleton.bài tập 1\bin\Debug\net7.0\singleton.bài tập 1.deps.json
+C:\Users\Administrator\source\repos\singleton.bài tập 1\bin\Debug\net7.0\singleton.bài tập 1.runtimeconfig.json
+C:\Users\Administrator\source\repos\singleton.bài tập 1\bin\Debug\net7.0\singleton.bài tập 1.dll
+C:\Users\Administrator\source\repos\singleton.bài tập 1\bin\Debug\net7.0\singleton.bài tập 1.pdb
+C:\Users\Administrator\source\repos\singleton.bài tập 1\obj\Debug\net7.0\singleton.bài tập 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\singleton.bài tập 1\obj\Debug\net7.0\singleton.bài tập 1.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\singleton.bài tập 1\obj\Debug\net7.0\singleton.bài tập 1.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\singleton.bài tập 1\obj\Debug\net7.0\singleton.bài tập 1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\singleton.bài tập 1\obj\Debug\net7.0\singleton.bài tập 1.dll
+C:\Users\Administrator\source\repos\singleton.bài tập 1\obj\Debug\net7.0\refint\singleton.bài tập 1.dll
+C:\Users\Administrator\source\repos\singleton.bài tập 1\obj\Debug\net7.0\singleton.bài tập 1.pdb
+C:\Users\Administrator\source\repos\singleton.bài tập 1\obj\Debug\net7.0\singleton.bài tập 1.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\singleton.bài tập 1\obj\Debug\net7.0\ref\singleton.bài tập 1.dll

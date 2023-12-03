@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\singleton\bin\Debug\net7.0\singleton.exe
+C:\Users\Administrator\source\repos\singleton\bin\Debug\net7.0\singleton.deps.json
+C:\Users\Administrator\source\repos\singleton\bin\Debug\net7.0\singleton.runtimeconfig.json
+C:\Users\Administrator\source\repos\singleton\bin\Debug\net7.0\singleton.dll
+C:\Users\Administrator\source\repos\singleton\bin\Debug\net7.0\singleton.pdb
+C:\Users\Administrator\source\repos\singleton\obj\Debug\net7.0\singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\singleton\obj\Debug\net7.0\singleton.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\singleton\obj\Debug\net7.0\singleton.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\singleton\obj\Debug\net7.0\singleton.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\singleton\obj\Debug\net7.0\singleton.dll
+C:\Users\Administrator\source\repos\singleton\obj\Debug\net7.0\refint\singleton.dll
+C:\Users\Administrator\source\repos\singleton\obj\Debug\net7.0\singleton.pdb
+C:\Users\Administrator\source\repos\singleton\obj\Debug\net7.0\singleton.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\singleton\obj\Debug\net7.0\ref\singleton.dll
