@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\luyện_template.Method\bin\Debug\luyện_template.Method.exe.config
+C:\Users\Administrator\source\repos\luyện_template.Method\bin\Debug\luyện_template.Method.exe
+C:\Users\Administrator\source\repos\luyện_template.Method\bin\Debug\luyện_template.Method.pdb
+C:\Users\Administrator\source\repos\luyện_template.Method\obj\Debug\luyện_template.Method.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\luyện_template.Method\obj\Debug\luyện_template.Method.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\luyện_template.Method\obj\Debug\luyện_template.Method.exe
+C:\Users\Administrator\source\repos\luyện_template.Method\obj\Debug\luyện_template.Method.pdb
