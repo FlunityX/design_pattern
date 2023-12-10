@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\nhanvatgame\bin\Debug\nhanvatgame.exe.config
+C:\Users\Administrator\source\repos\nhanvatgame\bin\Debug\nhanvatgame.exe
+C:\Users\Administrator\source\repos\nhanvatgame\bin\Debug\nhanvatgame.pdb
+C:\Users\Administrator\source\repos\nhanvatgame\obj\Debug\nhanvatgame.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\nhanvatgame\obj\Debug\nhanvatgame.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\nhanvatgame\obj\Debug\nhanvatgame.exe
+C:\Users\Administrator\source\repos\nhanvatgame\obj\Debug\nhanvatgame.pdb
