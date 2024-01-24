@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Subclass Sandbox Pattern\bin\Debug\net8.0\Subclass Sandbox Pattern.exe
+C:\Users\Administrator\source\repos\Subclass Sandbox Pattern\bin\Debug\net8.0\Subclass Sandbox Pattern.deps.json
+C:\Users\Administrator\source\repos\Subclass Sandbox Pattern\bin\Debug\net8.0\Subclass Sandbox Pattern.runtimeconfig.json
+C:\Users\Administrator\source\repos\Subclass Sandbox Pattern\bin\Debug\net8.0\Subclass Sandbox Pattern.dll
+C:\Users\Administrator\source\repos\Subclass Sandbox Pattern\bin\Debug\net8.0\Subclass Sandbox Pattern.pdb
+C:\Users\Administrator\source\repos\Subclass Sandbox Pattern\obj\Debug\net8.0\Subclass Sandbox Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Subclass Sandbox Pattern\obj\Debug\net8.0\Subclass Sandbox Pattern.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Subclass Sandbox Pattern\obj\Debug\net8.0\Subclass Sandbox Pattern.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Subclass Sandbox Pattern\obj\Debug\net8.0\Subclass Sandbox Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Subclass Sandbox Pattern\obj\Debug\net8.0\Subclass Sandbox Pattern.dll
+C:\Users\Administrator\source\repos\Subclass Sandbox Pattern\obj\Debug\net8.0\refint\Subclass Sandbox Pattern.dll
+C:\Users\Administrator\source\repos\Subclass Sandbox Pattern\obj\Debug\net8.0\Subclass Sandbox Pattern.pdb
+C:\Users\Administrator\source\repos\Subclass Sandbox Pattern\obj\Debug\net8.0\Subclass Sandbox Pattern.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Subclass Sandbox Pattern\obj\Debug\net8.0\ref\Subclass Sandbox Pattern.dll
