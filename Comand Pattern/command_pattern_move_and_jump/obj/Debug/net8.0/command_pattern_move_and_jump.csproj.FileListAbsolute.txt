@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\command_pattern_move_and_jump\bin\Debug\net8.0\command_pattern_move_and_jump.exe
+C:\Users\Administrator\source\repos\command_pattern_move_and_jump\bin\Debug\net8.0\command_pattern_move_and_jump.deps.json
+C:\Users\Administrator\source\repos\command_pattern_move_and_jump\bin\Debug\net8.0\command_pattern_move_and_jump.runtimeconfig.json
+C:\Users\Administrator\source\repos\command_pattern_move_and_jump\bin\Debug\net8.0\command_pattern_move_and_jump.dll
+C:\Users\Administrator\source\repos\command_pattern_move_and_jump\bin\Debug\net8.0\command_pattern_move_and_jump.pdb
+C:\Users\Administrator\source\repos\command_pattern_move_and_jump\obj\Debug\net8.0\command_pattern_move_and_jump.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\command_pattern_move_and_jump\obj\Debug\net8.0\command_pattern_move_and_jump.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\command_pattern_move_and_jump\obj\Debug\net8.0\command_pattern_move_and_jump.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\command_pattern_move_and_jump\obj\Debug\net8.0\command_pattern_move_and_jump.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\command_pattern_move_and_jump\obj\Debug\net8.0\command_pattern_move_and_jump.dll
+C:\Users\Administrator\source\repos\command_pattern_move_and_jump\obj\Debug\net8.0\refint\command_pattern_move_and_jump.dll
+C:\Users\Administrator\source\repos\command_pattern_move_and_jump\obj\Debug\net8.0\command_pattern_move_and_jump.pdb
+C:\Users\Administrator\source\repos\command_pattern_move_and_jump\obj\Debug\net8.0\command_pattern_move_and_jump.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\command_pattern_move_and_jump\obj\Debug\net8.0\ref\command_pattern_move_and_jump.dll
