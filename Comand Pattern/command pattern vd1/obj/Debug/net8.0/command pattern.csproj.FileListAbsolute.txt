@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\command pattern\bin\Debug\net8.0\command pattern.exe
+C:\Users\Administrator\source\repos\command pattern\bin\Debug\net8.0\command pattern.deps.json
+C:\Users\Administrator\source\repos\command pattern\bin\Debug\net8.0\command pattern.runtimeconfig.json
+C:\Users\Administrator\source\repos\command pattern\bin\Debug\net8.0\command pattern.dll
+C:\Users\Administrator\source\repos\command pattern\bin\Debug\net8.0\command pattern.pdb
+C:\Users\Administrator\source\repos\command pattern\obj\Debug\net8.0\command pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\command pattern\obj\Debug\net8.0\command pattern.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\command pattern\obj\Debug\net8.0\command pattern.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\command pattern\obj\Debug\net8.0\command pattern.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\command pattern\obj\Debug\net8.0\command pattern.dll
+C:\Users\Administrator\source\repos\command pattern\obj\Debug\net8.0\refint\command pattern.dll
+C:\Users\Administrator\source\repos\command pattern\obj\Debug\net8.0\command pattern.pdb
+C:\Users\Administrator\source\repos\command pattern\obj\Debug\net8.0\command pattern.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\command pattern\obj\Debug\net8.0\ref\command pattern.dll
